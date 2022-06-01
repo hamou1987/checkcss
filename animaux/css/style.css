@@ -1,0 +1,17 @@
+p{
+  color: red;
+  text-align: right;
+}
+body {
+  background-image: url(../images/facco\ 2015.jpeg) ;
+}
+.transparent{
+opacity: 3;
+ }
+.nav-list {
+       padding: 1rem 0;
+       display: flex;
+       justify-content: flex-end;
+       align-items: center;
+} 
+
